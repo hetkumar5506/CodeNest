@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Compiled Java artifacts
+server/Main.class
+
+# Temporary compiled files
+server/temp.*
+server/*.out
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
+
+# Vendor folders (optional if you want to exclude local codemirror assets)
+vendor/
+
+# Environment files
+.env
+
+# Cache or lock files
+package-lock.json
